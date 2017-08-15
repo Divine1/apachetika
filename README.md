@@ -27,7 +27,7 @@ A runnable jar that can produce the output is also available in this repository.
 You need to execute the `runnable jar` from command prompt. 
 Make sure you have java in your path variable (Environment Variable)
 
-`Input` for this project is the `path of pdf file`
+`Input` for this project is the `absolute path of pdf file`
 
 ##### Sample command to run the jar
 `java -jar insured-extractdata.jar \"c:/file.pdf\"`
@@ -51,4 +51,4 @@ Output
 
 The extracted data will be in unstructured format and it can be  converting to string. 
 
-i referred [this article](https://www.tutorialspoint.com/tika/index.htm) to built this project	
+i referred [this article](https://www.tutorialspoint.com/tika/index.htm) to build this project	
