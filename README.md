@@ -47,7 +47,7 @@ Apache Tika covers many usescases, but for the usecase i covered here not all th
 `Output`
 	Two files will be generated in the current path where you executed the command.
 	
-	1. contents.txt - contains the text extracted from pdf. The file will be empty if input pdf has image. Additional improvements in code can help to extract data from pdf.
+	1. contents.txt - contains the text extracted from pdf. The file will be empty if input pdf has image. 
 	2. metadata.txt - contains the metadata of the the pdf. 
 
 ### About Apache Tika
