@@ -26,7 +26,7 @@ A runnable jar that can produce the output is available in this repository. You 
 
 You need to execute the `runnable jar` from command prompt. 
 
-Make sure you have java in your path variable (Environment Variable).
+Make sure you have `java` in your `path` variable (Environment Variable).
 
 Go into the Runnable Jar folder in git repository to find the jar file. 
 
