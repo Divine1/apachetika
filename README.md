@@ -24,8 +24,10 @@ A runnable jar that can produce the output is also available in this repository.
 
 ### How can i see the output of this project?
 
-You need to run the `runnable jar` from command prompt
+You need to execute the `runnable jar` from command prompt. 
 Make sure you have java in your path variable (Environment Variable)
+
+`Input` for this project is the `path of pdf file`
 
 ##### Sample command to run the jar
 `java -jar insured-extractdata.jar \"c:/file.pdf\"`
@@ -35,9 +37,9 @@ Make sure you have java in your path variable (Environment Variable)
 
 ### What is the output of this project?
 
-Input path of pdf file
+
 Output
-	Two files will be generated in your current path.
+	Two files will be generated in the current path where you executed the command.
 	
 	1. contents.txt - contains the text extracted from pdf
 	2. metadata.txt - contains the metadata of the the pdf
