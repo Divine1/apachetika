@@ -59,6 +59,6 @@ The extracted data will be in unstructured format and it can be  converting to s
 
 i referred [this article](https://www.tutorialspoint.com/tika/index.htm) to build this project.
 
-Apache Tika has a GUI version of jar in which we can drag and drop the files and view the extracted content. It's useful for basic understanding how Apache Tika works. The GUI version can be downloaded from the [offical website](https://tika.apache.org/download.html)
+Apache Tika has a GUI version of jar in which we can drag and drop the files and view the extracted content. It's useful for our basic understanding on how Apache Tika works. The GUI version can be downloaded from the [offical website](https://tika.apache.org/download.html)
 
 
