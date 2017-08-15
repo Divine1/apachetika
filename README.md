@@ -31,7 +31,7 @@ Make sure you have java in your path variable (Environment Variable).
 Go into the Runnable Jar folder in git repository to find the jar file. 
 
 The size of this file is 57mb and its because of the libraries that exists in Apache Tika. 
-Apache Tika covers many usescases, but for the usecase i covered here not all those libraries are necessary. As i used maven all the dependencies are downloaded automatically.
+Apache Tika covers many usescases, but for the usecase i covered here not all those libraries are necessary. As i used maven, all the dependencies are downloaded automatically.
 
 `Input` for this project is the `absolute path of pdf file`
 
