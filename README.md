@@ -12,11 +12,11 @@ Windows 10 64 bit
 
 ### Jars Used
 
-Apache Tika 1.5 
+Apache Tika 1.15 
 
 ### What is in this repository?
 
-The source code for a simple program that extracts text from input pdf is in this repository. 
+The source code for a simple program that extracts text from input pdf is in this repository.  
 
 For this program the input pdf should contain text and not image.
 
