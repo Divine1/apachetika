@@ -53,12 +53,12 @@ Apache Tika covers many usescases, but for the usecase i covered here not all th
 ### About Apache Tika
 
 
-[Apache Tika](https://tika.apache.org/) is used for extracting data from pdf, images, audio files.
+[Apache Tika](https://tika.apache.org/) is used for extracting data from pdf, images, audio files. The usecases covered by Apache Tika is vast and i understand it is powerful on reading some of its documentation
 
 The extracted data will be in unstructured format and it can be  converting to string. 
 
 i referred [this article](https://www.tutorialspoint.com/tika/index.htm) to build this project.
 
-Apache Tika has a GUI version of jar in which we can drag and drop the files and view the extracted content. It's useful for basic understanding how Apache Tika works.
+Apache Tika has a GUI version of jar in which we can drag and drop the files and view the extracted content. It's useful for basic understanding how Apache Tika works. The GUI version can be downloaded from the [offical website](https://tika.apache.org/download.html)
 
 
