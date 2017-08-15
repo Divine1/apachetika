@@ -36,7 +36,7 @@ Apache Tika covers many usescases, but for the usecase i covered here not all th
 `Input` for this project is the `absolute path of pdf file`
 
 ##### Sample command to run the jar
-`java -jar insured-extractdata.jar \"c:/file.pdf\"`
+`java -jar insured-extractdata.jar "c:/file.pdf"`
 
 ##### if you face any issues in running this kindly let me know `cdivine304@gmail.com` 
 
@@ -44,7 +44,7 @@ Apache Tika covers many usescases, but for the usecase i covered here not all th
 
 ### What is the output of this project?
 
-Output
+`Output`
 	Two files will be generated in the current path where you executed the command.
 	
 	1. contents.txt - contains the text extracted from pdf. The file will be empty if input pdf has image. Additional improvements in code can help to extract data from pdf.
