@@ -16,7 +16,7 @@ Apache Tika 1.15
 
 ### What is in this repository?
 
-The source code for a simple program that extracts text from input pdf is in this repository.  
+This repository has the source code for a simple program that extracts text from input pdf.
 
 For this program the input pdf should contain text and not image.
 
