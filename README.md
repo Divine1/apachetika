@@ -1,7 +1,5 @@
 # Apache Tika 
 
-[Apache Tika](https://tika.apache.org/) is used for extracting data from pdf,images,audio files and converting to text. 
-
 ### Softwares Used to build the project 
 
 Apache Maven 3.5.0
@@ -44,4 +42,11 @@ Output
 	1. contents.txt - contains the text extracted from pdf
 	2. metadata.txt - contains the metadata of the the pdf
 
-	
+### About Apache Tika
+
+
+[Apache Tika](https://tika.apache.org/) is used for extracting data from pdf,images,audio files.
+
+The extracted data will be in unstructured format and it can be  converting to string. 
+
+i referred [this article](https://www.tutorialspoint.com/tika/index.htm) to built this project	
