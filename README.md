@@ -25,7 +25,10 @@ A runnable jar that can produce the output is also available in this repository.
 ### How can i see the output of this project?
 
 You need to execute the `runnable jar` from command prompt. 
-Make sure you have java in your path variable (Environment Variable)
+
+Make sure you have java in your path variable (Environment Variable).
+
+Go into the Runnable Jar folder in git repository to find the jar file.
 
 `Input` for this project is the `absolute path of pdf file`
 
@@ -41,8 +44,8 @@ Make sure you have java in your path variable (Environment Variable)
 Output
 	Two files will be generated in the current path where you executed the command.
 	
-	1. contents.txt - contains the text extracted from pdf
-	2. metadata.txt - contains the metadata of the the pdf
+	1. contents.txt - contains the text extracted from pdf. The file will be empty if input pdf has image. Additional improvements in code can help to extract data from pdf.
+	2. metadata.txt - contains the metadata of the the pdf. 
 
 ### About Apache Tika
 
@@ -51,4 +54,4 @@ Output
 
 The extracted data will be in unstructured format and it can be  converting to string. 
 
-i referred [this article](https://www.tutorialspoint.com/tika/index.htm) to build this project	
+i referred [this article](https://www.tutorialspoint.com/tika/index.htm) to build this project.
